@@ -2,7 +2,7 @@
 # Copyright (C) 2006 by Johannes Zellner, <johannes@zellner.org>
 # modified by mac@calmar.ws to fit my output needs
 # modified by crncosta@carloscosta.org to fit my output needs
-# modifed by azrael to fit my output needs
+# modifed by azrael to fit my output need :-P
 
 import sys
 import os

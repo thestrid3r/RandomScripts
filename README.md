@@ -1,2 +1,3 @@
 # RandomScripts
-This repo contains random scripts/Code which I have used in past , which are not orignally written but modified by me .
+This repo contains random scripts/Code which I have used in past 
+These scripts are not orignally written by me or I am not the origanl author but they are in someway modified by me, upto some extent.
